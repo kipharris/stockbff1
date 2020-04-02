@@ -79,5 +79,13 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/ibm-garage-cloud/template-node-typescript.git"
+  },
+  "release-it": {
+    "git": {
+      "requireCleanWorkingDir": false
+    },
+    "npm": {
+      "publish": false
+    }
   }
 }
